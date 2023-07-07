@@ -13,7 +13,7 @@
 </p> 
 
 - 🏢 I'm a Front-End Web Developer
-- 👨‍💻 Check out my portfolio at https://ebrahim-abdelrazik.me/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://ebrahim-abdelrazik.me to see some of the projects I've worked on.
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=70% height=95px>
 
