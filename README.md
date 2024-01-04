@@ -35,10 +35,14 @@
 ![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Next](https://img.shields.io/badge/-next.js-%23282C34?style=flat-square&logo=next.js)
+
 ![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebrahim-0&show_icons=true&locale=en&layout=compact" alt="ebrahim-0" /></p>
 
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=80px>
